@@ -1,0 +1,12 @@
+# Compiled Binaries
+server
+client
+*.o
+*.dSYM/
+
+# Game logs and scores
+*.log
+scores.txt
+
+# OS Files
+.DS_Store
